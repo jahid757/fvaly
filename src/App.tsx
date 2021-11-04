@@ -1,9 +1,7 @@
+import AppRouter from './AppRouter';
+
 function App() {
-  return (
-    <div>
-      <h2>Hello Fvaly</h2>
-    </div>
-  );
+  return <AppRouter />;
 }
 
 export default App;
